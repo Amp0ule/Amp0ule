@@ -1,8 +1,7 @@
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%"> -->
-<div align=center>
 
-# Hello! o7
-### [🖊️](https://an00brektn.github.io/) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:rsyed.business404@gmail.com)
+
+# Hello! 🏡
+
 
 </div>
 
